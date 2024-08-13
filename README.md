@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on **Ruby on Rails** Projects
 
-🌱 I’m currently learning **Python** & **Flask**
+🌱 I’m currently learning **Python** & **FAST API**
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
