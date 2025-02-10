@@ -3,9 +3,9 @@
     <p>I'm a Software Engineer specializing in Ruby on Rails. I enjoy solving problems, playing videogames, photography and of course coffee ☕️.</p>
 </div>
 
-🔭 I’m currently working on **Ruby on Rails** Projects
+🔭 I’m currently working on **Ruby on Rails** && **React** Projects
 
-🌱 I’m currently learning **Python** & **FAST API**
+🌱 I’m currently learning **Python**
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
@@ -24,7 +24,6 @@
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=instantfred&theme=github_dark" alt="Freddy's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=instantfred&theme=merko" alt="Freddy's Contribution Streak"/></td>
     </tr>
  </table>
 
