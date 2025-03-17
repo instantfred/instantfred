@@ -3,10 +3,10 @@
     <p>I'm a Software Engineer specializing in Ruby on Rails. I enjoy solving problems, playing videogames, photography and of course coffee ☕️.</p>
 </div>
 
-🔭 I’m currently working on **Ruby on Rails** && **React** Projects
+🔭 I’m currently working on **Ruby on Rails** & **React** Projects
 
-🌱 I’m currently learning **Python**
-
+🌱 I’m currently learning **Python** and **Django**
+ 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my github projects. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
